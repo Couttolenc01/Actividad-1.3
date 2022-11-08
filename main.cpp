@@ -1,7 +1,7 @@
 // =================================================================
 //
 // File: main.cpp
-// Author: Francisco Alejandro Velazquez Ledesma
+// Author: Francisco Couttolenc Ortiz
 // fecha: 11/09/2022
 //
 // =================================================================
